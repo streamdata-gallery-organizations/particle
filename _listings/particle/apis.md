@@ -16,8 +16,8 @@ tags:
 - Internet of Things
 - Imports
 - Devices
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/particle/master/_listings/particle/apis.yaml
 specificationVersion: "0.14"
 apis:
